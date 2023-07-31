@@ -9,4 +9,8 @@ User Age: 40
 #January
 #Febuary
 #March
-
+28-Jun-1956
+14-Aug-1958
+18-Nov-1980
+24-Feb-1984
+Samsung Galaxy 20
